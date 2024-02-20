@@ -1,0 +1,34 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="298" height="298" rx="7" fill="#ECECEC" stroke="black" stroke-width="2"/>
+<rect x="13.5" y="12.5" width="274" height="274" rx="1.5" fill="#ECECEC" stroke="black"/>
+<circle cx="150.5" cy="149.5" r="107.5" fill="#F1C05F"/>
+<circle cx="151" cy="149" r="100" fill="#5F3E00"/>
+<line x1="77.5" y1="89" x2="77.5" y2="215" stroke="#844D1A"/>
+<line x1="224.5" y1="89" x2="224.5" y2="215" stroke="#844D1A"/>
+<line x1="108.5" y1="59" x2="108.5" y2="239" stroke="#844D1A"/>
+<line x1="191.5" y1="59" x2="191.5" y2="239" stroke="#844D1A"/>
+<line x1="148.5" y1="48" x2="148.5" y2="250" stroke="#844D1A"/>
+<ellipse cx="150.5" cy="50" rx="5.5" ry="5" fill="#F1C05F"/>
+<ellipse cx="226.5" cy="218" rx="5.5" ry="5" fill="#F1C05F"/>
+<ellipse cx="226.5" cy="84" rx="5.5" ry="5" fill="#F1C05F"/>
+<ellipse cx="250.5" cy="150" rx="5.5" ry="5" fill="#F1C05F"/>
+<ellipse cx="150.5" cy="250" rx="5.5" ry="5" fill="#F1C05F"/>
+<ellipse cx="51.5" cy="150" rx="5.5" ry="5" fill="#F1C05F"/>
+<ellipse cx="77.5" cy="84" rx="5.5" ry="5" fill="#F1C05F"/>
+<ellipse cx="77.5" cy="218" rx="5.5" ry="5" fill="#F1C05F"/>
+<circle cx="77.5" cy="84.5" r="2.5" fill="#8B8B8B"/>
+<circle cx="150.5" cy="149.5" r="32.5" fill="#8B8B8B"/>
+<circle cx="150.5" cy="149.5" r="22.5" fill="#464646"/>
+<circle cx="226.5" cy="217.5" r="2.5" fill="#8B8B8B"/>
+<circle cx="150.5" cy="249.5" r="2.5" fill="#8B8B8B"/>
+<circle cx="77.5" cy="217.5" r="2.5" fill="#8B8B8B"/>
+<path d="M78.2133 87.2278L76.1889 82.4677C75.3878 83.3778 75.0893 83.9838 75.3534 85.5706C76.2154 87.0614 76.8682 87.3362 78.2133 87.2278Z" fill="black" fill-opacity="0.11"/>
+<circle cx="226.5" cy="84.5" r="2.5" fill="#8B8B8B"/>
+<circle cx="250.5" cy="149.5" r="2.5" fill="#8B8B8B"/>
+<circle cx="51.5" cy="149.5" r="2.5" fill="#8B8B8B"/>
+<circle cx="150.5" cy="50.5" r="2.5" fill="#8B8B8B"/>
+<path d="M52.522 152.03L49.8321 147.611C49.1706 148.627 48.9627 149.27 49.4529 150.802C50.521 152.153 51.2066 152.331 52.522 152.03Z" fill="black" fill-opacity="0.11"/>
+<path d="M79 219.561L75.2477 216C74.8752 217.154 74.8427 217.829 75.7167 219.179C77.101 220.203 77.8093 220.196 79 219.561Z" fill="black" fill-opacity="0.11"/>
+<path d="M162.5 168L130.5 140C127.323 149.074 127.046 154.38 134.5 165C146.306 173.055 152.345 172.993 162.5 168Z" fill="black" fill-opacity="0.11"/>
+<path d="M152.905 251.186L148.883 247.932C148.603 249.112 148.624 249.787 149.602 251.065C151.062 251.976 151.768 251.913 152.905 251.186Z" fill="black" fill-opacity="0.11"/>
+</svg>

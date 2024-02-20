@@ -1,6 +1,6 @@
 # Viking Memory
 
-<img style="display: block; margin 5px auto;" src="./public/game-screenshot.png" alt="Viking Memory game" />
+<img style="display: block; margin 5px auto;" src="/public/game-screenshot.png" alt="Viking Memory game" />
 
 A card game where the player must find the matching pair of cards that are face down. Each round you are able to select two cards. If the pair do not match, they are turned back over and the next round begins. 
 
