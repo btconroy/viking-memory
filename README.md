@@ -10,4 +10,4 @@ I developed the game to practice using Vue 3 for use in future software projects
 
 ## Link to game
 
-- [Viking Memory Game]('#')
+- [Viking Memory Game]('https://voluble-cannoli-ea3c86.netlify.app/')
